@@ -1,2 +1,6 @@
 Backup/
 *.*.toe
+**/*.*.toe
+**/**.mp3
+**/.mov
+**/**.mov
